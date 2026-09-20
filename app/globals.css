@@ -179,6 +179,9 @@ td { padding: 12px 14px; vertical-align: middle; }
 .final-odd { background: #fff0e6; color: #9a4d27; }
 .final-even { background: #e8f1ff; color: #315f9d; }
 .final-double { background: #e4f3eb; color: #176044; }
+.final-sum-result { display: inline-flex; min-height: 42px; align-items: center; justify-content: center; border-radius: 12px; padding: 8px 10px; text-align: center; font-size: 12px; font-weight: 900; }
+.sum-below { background: #e8f1ff !important; color: #315f9d !important; }
+.sum-above { background: #fff0e6 !important; color: #9a4d27 !important; }
 .previous-check { margin: 0 14px 14px; overflow: hidden; border: 1px solid #dce4dd; border-radius: 12px; background: white; }
 .previous-check > header { display: flex; align-items: center; justify-content: space-between; gap: 12px; background: #f1f6f2; padding: 10px 12px; }
 .previous-check > header div { display: grid; gap: 2px; }
